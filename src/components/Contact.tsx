@@ -12,7 +12,7 @@ export function Contact() {
             I'm currently open to new opportunities and open to freelance. Whether you have a question or just want to say hi, 
             I'll try my best to get back to you!
           </p>
-          <a href="mailto:contact@example.com" className="btn btn-primary">
+          <a href="mailto:vamsikrishna.cse.sec@gmail.com" className="btn btn-primary">
             <FaEnvelope />
             Say Hello
           </a>

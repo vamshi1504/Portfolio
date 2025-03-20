@@ -5,7 +5,7 @@ import '../styles/Skills.css';
 const skills = [
  "HTML","CSS", "JavaScript", "React", "Node.js",
   "Python", "SQL", "CloudFlare", "Flutterflow", "Excel", "PowerPoint", "Figma",
-  "Github", "Flutter", "Dart", "Play Console"
+  "Github", "Flutter", "Dart", "Play Console", "Web Hosting"
 ];
 
 export function Skills() {
