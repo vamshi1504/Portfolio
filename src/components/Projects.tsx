@@ -45,6 +45,13 @@ const projects = [
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     // link: "https://webbook.wegsoft.com/",
   },
+  {
+    title: "Pandora",
+    description: "Pandora is a single platform for your pub and restaurant booking needs. Introducing E-menu for collaborative ordering and payments.",
+    image:
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
+    // link: "https://webbook.wegsoft.com/",
+  },
 ];
 
 export function Projects() {
