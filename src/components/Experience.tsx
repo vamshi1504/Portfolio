@@ -1,12 +1,17 @@
-import React from 'react';
 import { FaBriefcase } from 'react-icons/fa';
 import '../styles/Experience.css';
 
 const experiences = [
   {
+    title: "Frontend Developer",
+    company: "APPHOX Technologies Pvt Ltd",
+    period: "2026 - Present",
+    description: ""
+  },
+  {
     title: "Frontend Developer - Flutter",
     company: "Wegsoft Technologies",
-    period: "2024 - Present",
+    period: "2024 - 2026",
     description: "Developed and maintained projects using modern technologies"
   },
   {
